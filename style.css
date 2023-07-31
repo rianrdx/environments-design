@@ -34,6 +34,7 @@ body {
 }
 
 .hero h1 span {
+  font-weight: 700;
   color: #F90
 }
 
@@ -43,7 +44,7 @@ body {
   color: #7D7987;
   font-family: Open Sans;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 28px;
 }
 
