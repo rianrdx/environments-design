@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://environments-design.vercel.app/). 
+Você pode visualizar o projeto através [DESSE LINK](https://environments-design.vercel.app/). 
